@@ -10,7 +10,9 @@ public class RG06_SesliSessizHarfBulma {
         char harf = scan.next().charAt(0);
 
         for (int i = 'a'; i <='z' ; i++) {
-           if (i=='a')
+           if (i=='a'){
+
+           }
             
         }
 
