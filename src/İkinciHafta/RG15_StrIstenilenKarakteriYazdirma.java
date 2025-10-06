@@ -1,4 +1,4 @@
-package IlkHafta;
+package İkinciHafta;
 
 import java.util.Scanner;
 
